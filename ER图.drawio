@@ -551,7 +551,7 @@
         <mxCell id="0a4O-97wJ2SCigk25Hyp-205" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;离开时间&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="100" x="560" y="830" as="geometry" />
         </mxCell>
-        <mxCell id="0a4O-97wJ2SCigk25Hyp-207" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;访客名&lt;/font&gt;" vertex="1">
+        <mxCell id="0a4O-97wJ2SCigk25Hyp-207" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;访客姓名&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="100" x="570" y="595" as="geometry" />
         </mxCell>
         <mxCell id="0a4O-97wJ2SCigk25Hyp-210" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;访客电话&lt;/font&gt;" vertex="1">
